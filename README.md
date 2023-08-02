@@ -2,7 +2,9 @@
 
 This is a dummy project.
 
-It has the following features
+It has the following features. 
+
+
 *Feature 1*
 *Feature 2*
 *Feature 3*
